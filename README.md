@@ -1,6 +1,4 @@
-# OIBSIP
-## Oasis Infobyte Internship Projects
-### Level 1
+# February Projects
 - Task 1: Landing Page
 ![Screenshot](https://github.com/eatulrajput/OIBSIP/blob/main/1.png)
 
